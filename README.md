@@ -23,5 +23,5 @@
 
 
 <!--START_SECTION:waka-->
-wakatime_weekly_language_stats
+
 <!--END_SECTION:waka-->
