@@ -25,3 +25,10 @@
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
+
+
+
+<img
+  src="https://github.com/abdullahaalam/abdullahaalam/blob/main/images/stat.svg"
+  alt="Omi WakaTime Activity"
+/>
