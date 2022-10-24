@@ -19,12 +19,3 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahaalam&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahaalam" /> </p>
-
-
-
-<!--START_SECTION:waka-->
-<img
-  src="https://github.com/abdullahaalam/abdullahaalam/blob/main/images/stat.svg"
-  alt="Omi WakaTime Activity"
-/>
-<!--END_SECTION:waka-->
