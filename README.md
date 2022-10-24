@@ -17,5 +17,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahaalam&" alt="abdullahaalam" /></p>
 
+![Metrics](https://metrics.lecoq.io/abdullahaalam?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FNew_York)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahaalam&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahaalam" /> </p>
