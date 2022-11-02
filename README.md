@@ -7,7 +7,7 @@
 <details>
   <summary>Profile Views 👁️</summary>
   <br/>
-  ![](https://komarev.com/ghpvc/?username=abdullahaalam&style=for-the-badge)
+  <img src="https://komarev.com/ghpvc/?username=abdullahaalam&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 </details>
 
 
